@@ -1,0 +1,51 @@
+commit 04f029e5cae336d14612b88a97c02f6bee764436
+Merge: 516b0c3 7436035
+Author: britsimi <britaany21@outlook.com>
+Date:   Thu Feb 5 22:15:47 2026 -0800
+
+    I solved the merge conflict in index.html
+
+commit 743603538b6567f927121c2035fb75632309390d
+Author: britsimi <britaany21@outlook.com>
+Date:   Thu Feb 5 22:13:54 2026 -0800
+
+    I added my favorite game div
+
+commit 7afa1e85ca9249725a6726872ce535eea2aac91c
+Author: britsimi <britaany21@outlook.com>
+Date:   Thu Feb 5 22:11:11 2026 -0800
+
+    added favorite food div
+
+commit 516b0c3b75ef254624429d7eb43f7438fcacd184
+Author: britsimi <britaany21@outlook.com>
+Date:   Thu Feb 5 22:04:44 2026 -0800
+
+    I added my favorite food div
+
+commit 547f5cbca29de93f3be185a62f1162b9241b1d26
+Author: britsimi <britaany21@outlook.com>
+Date:   Thu Feb 5 22:00:19 2026 -0800
+
+    I added a README, which explains the repo.
+
+commit dbe6422fadbc1b58cef3d8ebe1cb46ca2b90f096
+Merge: 1d2bfc0 a13aba5
+Author: britsimi <britaany21@outlook.com>
+Date:   Thu Feb 5 21:52:34 2026 -0800
+
+    Merge pull request #1 from britsimi/info-fill
+    
+    Filled in missing info in index.html
+
+commit a13aba5430d68713aa0604eca19fa9761dfa67cc
+Author: britsimi <britaany21@outlook.com>
+Date:   Thu Feb 5 21:20:20 2026 -0800
+
+    Filled in missing info in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
